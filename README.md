@@ -1,5 +1,13 @@
 # Relatório das apresentações.md
 
+# 📚 BIbliotecas PyQt e Tkinter
+
+https://github.com/Samuel324567/Reposit-rio-Visual-Code/blob/main/PyQt.PY
+https://github.com/Samuel324567/Reposit-rio-Visual-Code/blob/main/Tkinter.py
+
+# Link Canva
+https://www.canva.com/design/DAGvMqjirlI/GECfXSQWO0Ic7Zb6HbxfYw/edit
+
 # 📚 Relatório de Bibliotecas Utilizadas
 
 Este documento apresenta uma descrição detalhada das bibliotecas utilizadas, com foco em suas funcionalidades, vantagens, limitações e casos de uso mais comuns. Ideal para quem está começando ou deseja entender melhor o propósito de cada ferramenta.
@@ -105,11 +113,3 @@ Este documento apresenta uma descrição detalhada das bibliotecas utilizadas, c
 - Integra-se perfeitamente com **Pandas**.
 - Menos flexível para personalizações avançadas comparado ao Matplotlib.
 - Excelente para apresentações e dashboards analíticos.
-
-# 📚 BIbliotecas PyQt e Tkinter
-
-https://github.com/Samuel324567/Reposit-rio-Visual-Code/blob/main/PyQt.PY
-https://github.com/Samuel324567/Reposit-rio-Visual-Code/blob/main/Tkinter.py
-
-# Link Canva
-https://www.canva.com/design/DAGvMqjirlI/GECfXSQWO0Ic7Zb6HbxfYw/edit
