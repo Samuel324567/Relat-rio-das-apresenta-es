@@ -5,8 +5,7 @@ https://www.notion.so/Relat-rio-de-bibliotecas-24d4f9256d2c805292d9cefe00d8c65b
 
 # 📚 BIbliotecas 
 
-[Código PyQt](PyQt.PY)
-[Código Tkinter](Tkinter.py)
+Reposit-rio-Visual-Code
 
 # Link Canva
 https://www.canva.com/design/DAGvMqjirlI/GECfXSQWO0Ic7Zb6HbxfYw/edit
